@@ -4,7 +4,6 @@ body {
   font-size: 1vw;
   line-height: 1.6;
   letter-spacing: 0em;
-  background-color: #000 !important;
 }
 
 h1 {
@@ -374,7 +373,7 @@ blockquote {
 }
 
 .body {
-  background-color: #131321;
+  background-color: #000;
   color: #fefefe;
 }
 
