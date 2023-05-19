@@ -4,6 +4,7 @@ body {
   font-size: 1vw;
   line-height: 1.6;
   letter-spacing: 0em;
+  background-color: #000 !important;
 }
 
 h1 {
